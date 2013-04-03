@@ -1,4 +1,6 @@
 *.log
 *.pot
 *.pyc
+media*
+env*
 local_settings.py
